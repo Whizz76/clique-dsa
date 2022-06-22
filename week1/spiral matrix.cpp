@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-    //spiral matrix
+    //spiral matrixgi
     int n;
     int m;
     cout<<"Enter the number of rows"<<endl;
